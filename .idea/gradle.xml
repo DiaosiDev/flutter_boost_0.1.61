@@ -7,6 +7,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/../../../Flutter/flutter/.pub-cache/git/flutter_boost-d3dce92ae2839a4114f5c0ef1a24e43c9b84f632/android" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
           </set>
