@@ -46,7 +46,7 @@ android {
 }
 
 flutter {
-    source '../..'
+    source '../test_flutter_module'
 }
 
 dependencies {
